@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div  {
+    padding: 100px;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+.bg3, .bg5 {
+    color: #1d1d1d;
+} 
+p{
+    margin-top: 30px;
+}
+
+
+.bg1 {
+    color: #fff;
+    background-image: url("./img/image2.png");
+}
+
+.bg3 {
+    background-image: url("./img/image5.png");
+}
+
+.bg5 {
+    background-image: url("./img/image7.png");
+}
